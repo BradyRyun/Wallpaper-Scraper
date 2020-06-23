@@ -3,6 +3,12 @@ Script that scrapes the r/wallpaper subreddit and saves the images.
 
 # Getting Setup
 - Please checkout the following link before getting started: [How to Scrape Reddit](https://www.storybench.org/how-to-scrape-reddit-with-python/)
+## Required Dependencies:
+- If you do not have a dependency, use `pip install dependency` to install them
+- Praw
+- BeautifulSoup
+- requests
+
 1. You will need to have an account on Reddit. Follow the above link's guide and replace the following code with your information. All of which are string values. 
 
 ```
