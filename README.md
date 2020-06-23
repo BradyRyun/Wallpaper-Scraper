@@ -1,4 +1,4 @@
-# Wallpaper-for-GH
+# Wallpaper-Scraper
 Script that scrapes the r/wallpaper subreddit and saves the images.
 
 # Getting Setup
