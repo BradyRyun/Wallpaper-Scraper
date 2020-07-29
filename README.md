@@ -21,4 +21,5 @@ password="REDDIT_PASSWORD",
 
 2. Next, replace the `dir` variable in both the `wallpaperscraper.py` & `setRandomWallpaper.py` files with the absolute path to the folder you'd like to save the wallpapers to. 
 3. Run `python wallpaperscraper.py` to gather all your background images.
-4. run `python setRandomWallpaper.py` to set a random wallpaper from the downloaded images.
+4. Run `python setRandomWallpaper.py` to set a random wallpaper from the downloaded images.
+  - Alternatively, on Windows, you can right-click your background. Select "Personalize". Then change your background to "Slideshow" and choose the folder you're saving the files to to change pictures over a time interval. 
